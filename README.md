@@ -3,7 +3,7 @@
 > 一个 Windows 桌面端音乐聚合器：把多个公开音乐接口收进同一个搜索框，搜到即可播放；内置可切换的 Folia 风格歌词舞台，本地缓存加速，数据不出本机。
 
 ![platform](https://img.shields.io/badge/platform-Windows-0B0D13)
-![version](https://img.shields.io/badge/version-1.6.9-blue)
+![version](https://img.shields.io/badge/version-1.7.2-blue)
 ![license](https://img.shields.io/badge/license-MIT%20%2F%20AGPL--3.0-lightgrey)
 
 ---
@@ -18,7 +18,6 @@
 | --- | --- | --- |
 | ![home](assets/01-home.png) | ![search](assets/02-search.png) | ![folia](assets/r05-immersive.png) |
 
-> 截图位于 `assets/` 目录，可随版本更新替换。
 
 ## 简介
 

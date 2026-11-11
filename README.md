@@ -8,6 +8,10 @@
 
 ---
 
+下载链接：
+百度云盘：https://pan.baidu.com/s/1dOsl4pYhFMkHsyJIipApCw?pwd=9nf2 提取码: 9nf2
+夸克网盘：https://pan.quark.cn/s/d20445a13018
+
 ## 截图
 
 | 发现页 | 聚合搜索 | 沉浸歌词 / Folia 舞台 |
